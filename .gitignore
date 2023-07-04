@@ -1,4 +1,7 @@
-git i
+__pycache__
+*.*~
+*.pyc
+.idea
 
 
 
